@@ -1,8 +1,9 @@
 # 💫 About Me:
 I'm Naseema, a curious learner exploring the world of tech.<br>Currently working towards:<br><br>🌻Java<br>🌻JavaScript<br>🌻HTML<br>🌻CSS<br>🌻SQL<br><br>Along with hands-on experience in Bootstrap and React.<br>Adept at building and deploying full-stack applications, Git/GitHub
 
-![waterfall-nature](https://github.com/user-attachments/assets/63be4e94-6dff-4602-93f7-cda746bab6d2)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63be4e94-6dff-4602-93f7-cda746bab6d2" alt="summerfun">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hnaseema) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asiknaseema@gmail.com) 
@@ -14,7 +15,9 @@ I'm Naseema, a curious learner exploring the world of tech.<br>Currently working
 ![](https://nirzak-streak-stats.vercel.app/?user=Hnaseemap&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hnaseemap&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![summer-fun](https://github.com/user-attachments/assets/029168cd-95d9-43ab-8b1b-3c9d981b19e4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/029168cd-95d9-43ab-8b1b-3c9d981b19e4" alt="summerfun">
+</p>
 
 
 ## 🏆 GitHub Trophies
